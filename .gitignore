@@ -1,2 +1,3 @@
-# Ignoring all .csv files so no data is leaked #
+# Ignoring all .csv and .json files so no data is leaked #
 *.csv
+*.json
